@@ -6,5 +6,5 @@ create a new branch is quickly
 
 conflicts A and B
 
-aaa
+123456
 
