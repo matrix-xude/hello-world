@@ -5,5 +5,10 @@ hello , foolish woman !
 create a new branch is quickly
 
 conflicts A and B
+
 i am bbbb
+
+
+fixBug
+
 
