@@ -3,3 +3,5 @@ my first repository
 
 hello , foolish woman !
 create a new branch is quickly
+
+conflicts A & B
