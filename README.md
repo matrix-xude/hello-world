@@ -5,6 +5,5 @@ hello , foolish woman !
 create a new branch is quickly
 
 conflicts A and B
-
-123456
+i am bbbb
 
