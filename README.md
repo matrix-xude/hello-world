@@ -1,14 +1,17 @@
 # hello-world
-my first repository
+my second repository
 
-hello , foolish woman !
-create a new branch is quickly
+hello , foolish human !
 
-conflicts A and B
+contrubution !
 
-i am bbbb
+
+localtion , do something
+
+I am remote
 
 
 fixBug  hah
 
 
+fixBug
