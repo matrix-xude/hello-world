@@ -10,10 +10,8 @@ localtion , do something
 
 I am remote
 
-<<<<<<< HEAD
-=======
+
 fixBug  hah
->>>>>>> refs/remotes/origin/master
 
 
 fixBug
